@@ -22,8 +22,6 @@ insights and the behaviour of people to understand the data set model. Observing
 of dataset model, I tried to experiment it with the well known data mining algorithms like
 Apriori to map the idea proposed insight to be verified. 
 
-
-
 ## Challenges
 
 - Managing Huge dataset
@@ -39,7 +37,6 @@ Apriori to map the idea proposed insight to be verified.
 - Very good study on Data science forum (Kaggle, Kdnuggets)
 - View data as Business model to improve rather than just data
 - Propose a story based on data
-- SQLite and R Studio experience
+- SQLite, Rattle and R Studio
 - Figuring meaningful insights
 - Way of thinking as a Business analyst and a data scientist (eg: Client & Service provider)
-
