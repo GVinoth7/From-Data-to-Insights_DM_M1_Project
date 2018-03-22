@@ -1,10 +1,6 @@
-# From-Data-to-Insights
-##The-Blueprint-for-SF-Bay-Area-Bicycle-Trip-Business
-
+# From-Data-to-Insights :: The-Blueprint-for-SF-Bay-Area-Bicycle-Trip-Business
 
 ## Overview
-**From-Data-to-Insights :** The-Blueprint-for-SF-Bay-Area-Bicycle-Trip-Business
-
 
 The projects aims to find the new business insights from the business model from the 
 dataset of people trip usage. The **purpose** of making trips differs from person 
