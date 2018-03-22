@@ -28,7 +28,7 @@ Apriori to map the idea proposed insight to be verified.
 - Removing Outliers 
 - practising other  data scientist kernels
 - Computation time and energy
-- Thinking in a way as Business Analyst
+- Thinking in a way as Business Analyst and Business Intelligence
  
 ## Learnings
 
