@@ -45,4 +45,4 @@ of R.
 - Propose a story based on data
 - SQLite, Rattle and R Studio
 - Figuring meaningful insights
-- Way of thinking as a Business analyst and a data scientist (eg: Client & Service provider)
+- Way of thinking as a Business analyst and a data scientist (eg: Requirement analyst & Problem Solver)
