@@ -20,7 +20,13 @@ of model to becreated.
 The dataset was well known and mined by different data scientists to find a lot of business 
 insights and the behaviour of people to understand the data set model. Observing the diversity
 of dataset model, I tried to experiment it with the well known data mining algorithms like
-Apriori to map the idea proposed insight to be verified. 
+Apriori to map the idea proposed insight to be verified. I also tried to experiment the dataset in my
+prespective to understand business model on bi-cycles like analysing the durability of the bikes, need of
+maintanence to bikes, and Investment planning.
+
+Thus, this project gets me through to play with the huge dataset and gives complete exploration to the usage
+of R.
+
 
 ## Challenges
 
